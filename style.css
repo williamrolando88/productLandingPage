@@ -154,3 +154,9 @@ footer{
     background-color: #ddd;
     padding: 10px 10px 0px 0;
 }
+
+@media (max-width:1000px) {
+    #header{
+        flex-direction: column;
+    }
+}
