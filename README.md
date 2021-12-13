@@ -1,6 +1,7 @@
 # Product Landing Page
 
 This page show a preview of product landing page, this layout is for a single product showcase
+![img](./src/screenshot.png)
 
 ## Built With
 
